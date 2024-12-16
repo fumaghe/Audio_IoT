@@ -81,4 +81,4 @@ Puoi regolare i seguenti parametri nella funzione `generate_audio` per personali
 
 ---
 
-## Create by fumaghe
+Created by fumaghe
