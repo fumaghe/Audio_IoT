@@ -79,4 +79,6 @@ Puoi regolare i seguenti parametri nella funzione `generate_audio` per personali
 - Test e validazione di sistemi basati su comandi vocali.
 - Generazione di dataset diversificati per scenari di machine learning.
 
+---
 
+## Create by fumaghe
